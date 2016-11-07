@@ -87,19 +87,82 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+#wrapper {
+width: 960px;
+margin-left: auto;
+margin-right: auto;
+}
 
+#header {
+background-color: red;
+height: 70px;
+line-height: 20px;
+}
 
+#menu {
+background-color: blue;
+height: 70px;
+line-height: 20px;
+width: 593px;
+float: left;
+}
 
+li {
+display: inline;
+}
 
+#menu a{
+color: white;
+}
 
+#logo {
+background-color: green;
+width: 367px;
+float: left;
+}
 
+#logo h1{
+padding: 0px;
+margin: 0px;
+}
 
+#banner {
+clear: both;
+background-image: url(http://image.shutterstock.com/display_pic_with_logo/2086121/386723518/stock-vector-young-man-sitting-in-the-park-under-a-tree-and-working-with-laptop-flat-modern-illustration-of-386723518.jpg);
+height: 404px;
+background-size: cover;
+width: 960px;
+background-repeat: no-repeat;
+}
 
+#banner img{
+width: 100%;
+}
 
+#banner h1 {
+margin: 0px;
+padding: 0px;
+}
 
+#feature1 {
+float: left;
+width: 320px;
+}
 
+#feature2 {
+float: left;
+width: 320px;
+}
 
+#feature3 {
+float: left;
+width: 320px;
+}
 
+#footer {
+background-color: orange;
+clear: both;
+}
 
 
 
