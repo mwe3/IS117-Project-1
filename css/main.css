@@ -113,6 +113,7 @@ display: inline;
 
 #menu a{
 color: black;
+text-align: right;
 }
 
 #logo {
@@ -124,6 +125,7 @@ float: left;
 #logo h1{
 padding: 0px;
 margin: 0px;
+vertical-align: middle;
 }
 
 #banner {
