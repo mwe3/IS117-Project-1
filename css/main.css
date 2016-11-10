@@ -128,8 +128,8 @@ margin: 0px;
 
 #banner {
 clear: both;
-background-image: url(https://s22.postimg.org/kqoqbwmj5/business_man_laptop2.jpg);
-height: 412px;
+background-image: url (https://tse1.mm.bing.net/th?id=OIP.M2fc8c5be1e3aea08f83c3e8c24c9c859H0&pid=15.1);
+height: 481px;
 background-size: cover;
 width: 920px;
 background-repeat: no-repeat;
@@ -184,6 +184,7 @@ clear: both;
  * https://snook.ca/archives/html_and_css/hiding-content-for-accessibility
  *
  * 1. For long content, line feeds are not interpreted as spaces and small width
+ *    causes content to wrap 1 word per line:
  *    causes content to wrap 1 word per line:
  *    https://medium.com/@jessebeach/beware-smushed-off-screen-accessible-text-5952a4c2cbfe
  */
@@ -335,7 +336,6 @@ clear: both;
     h2,
     h3 {
         orphans: 3;
-        widows: 3;
     }
 
     h2,
