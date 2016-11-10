@@ -94,17 +94,18 @@ margin-right: auto;
 }
 
 #header {
-background-color: aquamarine;
+background-color: #647EF0;
 height: 70px;
 line-height: 20px;
 }
 
 #menu {
-background-color: aquamarine;
+background-color: #647EF0;
 height: 70px;
 line-height: 20px;
-width: 593px;
+width: 500px;
 float: left;
+text-align: right;
 }
 
 li {
@@ -116,27 +117,61 @@ color: black;
 }
 
 #logo {
-background-color: aquamarine;
+background-color: #647EF0;
 width: 367px;
 float: left;
+font-family: Georgia, Serif;
+margin-top: 15px;
+margin-left: 5px;
 }
 
 #logo h1{
 padding: 0px;
 margin: 0px;
+margin-left: 10px;
 }
 
 #banner {
 clear: both;
-background-image: url (https://tse1.mm.bing.net/th?id=OIP.M2fc8c5be1e3aea08f83c3e8c24c9c859H0&pid=15.1);
-height: 481px;
 background-image: url(https://s22.postimg.org/kqoqbwmj5/business_man_laptop2.jpg);
 margin-left: auto;
 margin-right: auto;
-height: 412px;
+height: 365px;
 background-size: cover;
-width: 920px;
+width: 960px;
 background-repeat: no-repeat;
+}
+#bannerContact {
+clear: both;
+background-image: url(http://media.istockphoto.com/photos/group-of-business-people-discussing-business-issues-picture-id488563289);
+margin-left: auto;
+margin-right: auto;
+height: 450px;
+background-size: cover;
+width: 960px;
+background-repeat: no-repeat;
+}
+
+#bannerContact h1 {
+font-family: Georgia, Serif;
+text-align: center;
+color: white;
+margin-top: inherit;
+}
+
+#bannerAbout {
+clear: both;
+background-image: url(http://media.istockphoto.com/photos/grunge-hipster-wooden-desktop-with-computer-digital-tablet-picture-id490243118);
+margin-left: auto;
+margin-right: auto;
+height: 400px;
+background-size: cover;
+width: 960px;
+background-repeat: no-repeat;
+}
+
+#bannerAbout img{
+width: 100%;
 }
 
 #banner img{
@@ -146,6 +181,13 @@ width: 100%;
 #banner h1 {
 margin: 0px;
 padding: 0px;
+}
+
+#bannerAbout h1 {
+margin: 0px;
+padding: 0px;
+font-family: Georgia, Serif;
+text-align: center;
 }
 
 #feature1 {
@@ -161,11 +203,32 @@ width: 320px;
 #feature3 {
 float: left;
 width: 320px;
+margin-top: 25px;
+text-align: center;
+}
+
+#featureContact1 {
+float: left;
+width: 480px;
+}
+
+#featureContact2 {
+float: left;
+width: 480px;
+}
+
+#featureAbout {
+float: left;
+}
+
+#featureLearn {
+text-align: center;
 }
 
 #footer {
-background-color: orange;
+background-color: #647EF0;
 clear: both;
+text-align: center;
 }
 
 
