@@ -94,13 +94,13 @@ margin-right: auto;
 }
 
 #header {
-background-color: red;
+background-color: aquamarine;
 height: 70px;
 line-height: 20px;
 }
 
 #menu {
-background-color: blue;
+background-color: aquamarine;
 height: 70px;
 line-height: 20px;
 width: 593px;
@@ -112,11 +112,11 @@ display: inline;
 }
 
 #menu a{
-color: white;
+color: black;
 }
 
 #logo {
-background-color: green;
+background-color: aquamarine;
 width: 367px;
 float: left;
 }
@@ -129,6 +129,8 @@ margin: 0px;
 #banner {
 clear: both;
 background-image: url(https://s22.postimg.org/kqoqbwmj5/business_man_laptop2.jpg);
+margin-left: auto;
+margin-right: auto;
 height: 412px;
 background-size: cover;
 width: 920px;
