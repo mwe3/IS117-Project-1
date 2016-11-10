@@ -15,6 +15,8 @@ body {
 #banner {
 	clear: both;
 	background-image: url("../src/interhist.jpg");
+	margin-left: auto;
+	margin-right: auto;
 	height: 404px;
 	background-size: cover;
 	width: 960px;
@@ -30,17 +32,17 @@ body {
 	line-height: 70px;
 }
 #menu {
-	background-color:blue;
+	background-color: aquamarine;
 	width: 593px;
 	float: left;
 				         
 }
 #menu a {
-	color: white;
+	color: black;
 }
 					      
 #logo {
-	background-color: green;
+	background-color: aquamarine;
 	width: 367px;
 	float: left;
 }
