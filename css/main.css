@@ -156,13 +156,13 @@ li {
 #bannerMore h1 {
   font-family: Georgia, Serif;
   text-align: center;
-  color: black;
+  color: white;
   margin-top: inherit;
   }
   
 #bannerContact {
   clear: both;
-  background-image: url(http://media.istockphoto.com/photos/group-of-business-people-discussing-business-issues-picture-id488563289);
+  background-image: url(http://media.istockphoto.com/photos/group-of-business-people-on-meeting-picture-id533551493);
   margin-left: auto;
   margin-right: auto;
   height: 450px;
@@ -174,7 +174,7 @@ li {
 #bannerContact h1 {
   font-family: Georgia, Serif;
   text-align: center;
-  color: white;
+  color: #647EF0;
   margin-top: inherit;
   }
   
@@ -201,8 +201,6 @@ li {
   margin: 0px;
   padding: 0px;
   font-family: Georgia, Serif;
-  text-align: center;
-  margin-top: inherit;
   }
   
 #bannerAbout h1 {
@@ -210,6 +208,7 @@ li {
   padding: 0px;
   font-family: Georgia, Serif;
   text-align: center;
+  color: #647EF0;
   }
   
 #feature1 {
@@ -242,9 +241,25 @@ li {
 #featureAbout {
   float: left;
   }
-  
+#bannerLearn {
+ clear: both;
+ background-image: url(http://media.istockphoto.com/photos/group-of-busy-business-people-working-in-office-top-view-picture-id607604968);
+ margin-left: auto;
+ margin-right: auto;
+ height: 1000px;
+ width: 300px;
+ background-size: cover;
+ background-repeat: no-repeat;
+ float: left;
+ }
+
+#bannerLearn h1{
+ color: black;
+}
+
 #featureLearn {
-  text-align: center;
+  text-align: left;
+  float: right;
   }
   
 #featureMore {
