@@ -201,6 +201,8 @@ li {
   margin: 0px;
   padding: 0px;
   font-family: Georgia, Serif;
+  text-align: center;
+  margin-top: inherit;
   }
   
 #bannerAbout h1 {
@@ -208,8 +210,6 @@ li {
   padding: 0px;
   font-family: Georgia, Serif;
   text-align: center;
-  margin-top: inherit;
-  color: black;
   }
   
 #feature1 {
