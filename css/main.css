@@ -141,6 +141,12 @@ li {
   width: 960px;
   background-repeat: no-repeat;
   }
+#banner h1 {
+  font-family: Georgia, Serif;
+  text-align: center;
+  color: black;
+  margin-top: inherit;
+  }
   
 #bannerMore {
   clear: both;
@@ -272,12 +278,6 @@ li {
   clear: both;
   text-align: center;
   }
-
-
-
-
-
-
 
 
 
