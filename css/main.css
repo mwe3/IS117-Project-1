@@ -144,7 +144,7 @@ li {
   
 #bannerMore {
   clear: both;
-  background-image: url(http://media.istockphoto.com/vectors/web-developer-vector-id507822887);
+  background-image: url(http://media.istockphoto.com/photos/programming-works-picture-id494345930);
   margin-left: auto;
   margin-right: auto;
   height: 600px;
@@ -200,6 +200,7 @@ li {
 #banner h1 {
   margin: 0px;
   padding: 0px;
+  font-family: Georgia, Serif;
   }
   
 #bannerAbout h1 {
@@ -207,6 +208,8 @@ li {
   padding: 0px;
   font-family: Georgia, Serif;
   text-align: center;
+  margin-top: inherit;
+  color: black;
   }
   
 #feature1 {
@@ -254,12 +257,6 @@ li {
   clear: both;
   text-align: center;
   }
-
-
-
-
-
-
 
 
 
